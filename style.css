@@ -1,0 +1,11 @@
+.explore-part{
+    background-image: url(img/headerBcg.jpeg);
+    width: 100%;
+    background-color: #17a2b8;
+    background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+body{
+    font-family: 'Dancing Script', cursive;
+}
